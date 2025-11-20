@@ -1,4 +1,6 @@
 ## 4_bit_Random_Number_Generation_using_SystemVerilog_PG_DD
+## REG NUM :
+## NAME :
 ## EXPERIMENT – 7 4-bit Random Number Generation using SystemVerilog Constraints and Distribution Verification
 
 ## Aim
