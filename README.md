@@ -1,6 +1,6 @@
 ## 4_bit_Random_Number_Generation_using_SystemVerilog_PG_DD
-## REG NUM :
-## NAME :
+## REG NUM :25014334
+## NAME :Santhiya B
 ## EXPERIMENT – 7 4-bit Random Number Generation using SystemVerilog Constraints and Distribution Verification
 
 ## Aim
@@ -77,6 +77,7 @@ endmodule
 ```
 
 ## OUTPUT 
+<img width="1108" height="560" alt="image" src="https://github.com/user-attachments/assets/b6921e8a-43ea-4689-ba4a-b068ce230541" />
 
 ## RESULT 
 A SystemVerilog class was successfully designed with range constraints to generate 4-bit random numbers.
